@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "👍"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -14,15 +14,15 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Lương Trường Khôi",
-    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
+    "BOTNAME": "Nguyễn Chí Thành",
+    "AMDIN_NAME": "Yunz",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/nct.dev.tricker",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100018277053087"
+        "100083620530593"
     ],
     "NDH": [
-        "100018277053087"
+        "100083620530593"
     ],
     "DATABASE": {
         "sqlite": {
